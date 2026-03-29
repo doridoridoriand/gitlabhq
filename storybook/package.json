@@ -29,7 +29,7 @@
     "react-dom": "^18.2.0",
     "sass": "^1.75.0",
     "sass-loader": "^10",
-    "storybook": "^7.6.20",
+    "storybook": "^7.6.21",
     "storybook-dark-mode": "4.0.2",
     "vue-loader": "^15.8.3",
     "axe-playwright": "^2.1.0"
